@@ -1,6 +1,6 @@
 # MultiBully
 
-MultiBully is a Go library for distributed leadership election on a UDP multicast enabled network, like a LAN. It uses the Bully algorithm, a relatively simply mechanism which may not be suitable for a large numbers of nodes.
+MultiBully is a Go library for distributed leadership election on a UDP multicast enabled network, like a LAN. It uses the [Bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm), a relatively simply mechanism which may not be suitable for a large numbers of nodes.
 
 ## Usage
 
